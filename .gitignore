@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Scripts temporales
+_fix_nb.py
+
+# Archivos zip grandes (el CSV ya está en /archive)
+archive.zip
